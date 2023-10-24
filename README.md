@@ -1,6 +1,6 @@
 # README
 
-![gopher](gopher.png)
+![gopher](gopher_img.png)
 
 ## What is this
 
