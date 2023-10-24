@@ -1,5 +1,7 @@
 # README
 
+![gopher](gopher.png)
+
 ## What is this
 
 A simple MAC address parser written in GO. Looking to practice CLI building.
