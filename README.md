@@ -2,6 +2,10 @@
 
 ![gopher](gopher_img.png)
 
+---
+
+![demo](gomac.gif)
+
 ## What is this
 
 A simple MAC address parser written in GO. Looking to practice CLI building.
